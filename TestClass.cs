@@ -1,5 +1,6 @@
 ﻿using System;
 
+// This class is used for returning of Feedback
 public class TheMotivator
 {
     public void returnFeedback(int score)
