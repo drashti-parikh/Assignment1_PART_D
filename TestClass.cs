@@ -10,7 +10,7 @@ public class TheMotivator
         else if (score > 90)
             Console.WriteLine("That's great");
         else
-            Console.WriteLine("Well, what can I say?");
+            Console.WriteLine("Well, what can I say? This is only feedback you will have");
     }
     public static void main(String[] args)
     {
