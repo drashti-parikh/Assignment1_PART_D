@@ -1,0 +1,23 @@
+*   changed else if condition
+|\  
+| * changed else if condition
+* |   Solved conflicts after merging error
+|\ \  
+| |/  
+| * Changed the else condition
+* | Changed the else if condition
+* |   Merge branch 'moreElseIFCondition'
+|\ \  
+| |/  
+| * Add other else if condition
+* | Changed the else condition
+|/  
+*   Merge branch 'addNewIfCondition'
+|\  
+| * Added Header
+| * Added else If condition
+* | New else if added
+|/  
+* Feedback function name changed to returnFeedback
+* New TestClass.cs is added
+* Create README.md
